@@ -47,6 +47,8 @@ Additionally, we have seven more case studies which are less documented, but giv
 
 ### Video Tutorials
 
+<div style="width:100px;height:100px;background-color:red"></div>
+
 DeepTrack 2.0 introduction tutorial video: https://youtu.be/hyfaxF8q6VE  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hyfaxF8q6VE
 " target="_blank"><img src="https://img.youtube.com/vi/hyfaxF8q6VE/maxresdefault.jpg" 
